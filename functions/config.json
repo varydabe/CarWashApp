@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carwashapp-7c2e3",
+  "private_key_id": "1a1dda7eec594fa709ad2cc27123b9e9c1f30631",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoixhkPj9M0+wL\n18UvX2YzQ1L3TX0+l8rDmYYYo5lUN1NlTslu8XfeEfQQGWCbStz7pcfNBLf8B5i7\nPkztstu1iK75PknGIRSlrv4QhGx/T+XcuuncBuQVFuxekaKznLOgpMRUfUwEnrSS\n0qsyXrBzD9LcprVQbEqXkUtnEB/h5ZEJs4MyEFo7zwb1h158kuxTliO/S6zxO8na\n6VRc+VcY4HFHnFcdvrBE3WhWht92BXUOFoGdUwFxeKyXmgOrcTJekQvNV/knm2br\nn8xIl3HI2TJXOEaA/CRVesSnNk7fOLZhrCDY2aOy8QSh6hNgZ9flXoCiIMvE40XL\nSbNBcJQZAgMBAAECggEABcfHeAtT0Rxk4xRtCdk5axarA2+f6llQYJxPp2FXrTYR\n4SPuRU94xJ//ATJYSDCCxbVY1eTh3n3wNLPH9aWwYq3OZR6dbx3L/yayRfoUsoUY\npWpaV5Z7lLxAMmTHnLtfbxSs5cI/rNo4konbyegfdcLG1j8ixsr//+oWw5vKTCKs\nxCHBetfGi7TKYz4GW6J4GCvh0V7ZAYzss08woWM2lF+78k8cgXw0htFYYTEPYYrJ\nli8gYIdZlrNXcF7JQBGhqKRxeKW83knozI70HzCsiuYzSoJ5iNKW0zug2ehPWJDB\n84Mux9Xk4jDhgL8UMCWLVtWL9HOJldNj3VoFCt0gVQKBgQDpvRiuvwdwwq8DdmDA\npp2DWcfScEaxqPTsHm4frMrK0u7WHRva0F38UWja5AVOo6KKccFQZ7Wjyr7V24sG\nQoWH5YgLT6snrH2akAtZTFAirsRDsim6a+cwOKM52Abm9ldOmHbBxUJoNhyHVmD+\njFf8NnGXPSOV6sbUJndLn9/QQwKBgQC4mHAgC8cwElpHmkl56+Jh4RfbjKzb9B2b\ndc1oVMd51MV97YXl0Ni1u5W/6v7wFYce5GK4SpCO4vJkJnMcEHmSwFKHGwR1mhVc\nJ6vpANHWOyQPBjLf/WCe3OUMXKAiS6eGgdGG+dlwGQvNQSSEzOEHkOhq+GPm/qLz\nx8NdFwyCcwKBgQCzFPJoUGw+9KpqmLQgZoegL5VtoiBH1g9xKQ9urVDifSIIYl0J\nFUQtIaKYssNuMOlD8UwPcqY0TA5Sg9bMgQMVz8KgB/Y2e23wkhRf4pwzNnug8kwO\nTMXgqERG+UCwjGTwDthONfhfJ7ZL6t59qMFwt7XoDivJnQuhV6dnBaLRSQKBgHOu\nI+YRO3xmo+jnSVB8gFvyYa8Wk2UrsDoyMs1FA9TXgAQQi66fmI8axReGPslZ1FmJ\nqkvvfnPsyRX1+oEF2gobOByu07aXHvenbNYRy25Dla9MpSk1cg1cRLXgfgHAA3YJ\neLLrdFYJfBnezvHiKstBBkWy73hc7uVytH1r6kz9AoGBAMigtGXlsHwie/3u26Ms\ntr8FZB6ebg8seMt+J9NagrPFAWC4NaErNUlWj4YfuAOYA693+XggTQf1MUa5aUbb\nVTqpGbYjt5VkzGXP310ywvFs85tneLRmqhlAXZbiCyF14otdSrJcufuvlJM+OK1y\ng2O3ZJvivIKSHL0L0cedE//R\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8xcw7@carwashapp-7c2e3.iam.gserviceaccount.com",
+  "client_id": "109514114470159224749",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8xcw7%40carwashapp-7c2e3.iam.gserviceaccount.com"
+}
