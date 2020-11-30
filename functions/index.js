@@ -14,8 +14,8 @@ app.set('views','./views');
 app.set('view engine','hbs');
 
 admin.initializeApp({credential: admin.credential.cert(
-      JSON.parse(Buffer.from(process.env.GOOGLE_CONFIG_BASE64, 'base64').toString('ascii')))
-});
+        JSON.parse(Buffer.from(process.env.GOOGLE_CONFIG_BASE64, 'base64').toString('ascii')))
+,
 databaseURL: "https://carwashapp-7c2e3.firebaseio.com/"
 });
 const db = admin.firestore();
