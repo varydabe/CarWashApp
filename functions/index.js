@@ -13,7 +13,13 @@ app.engine('hbs',engines.handlebars);
 app.set('views','./views');
 app.set('view engine','hbs');
 
-admin.initializeApp(functions.config().firebase);
+admin.initializeApp({
+    credential: admin.credential.cert({
+        "private_key": serviceAccount.private_key,
+        "client_email": serviceAccount.client_email,
+    }),
+databaseURL: "https://carwashapp-7c2e3.firebaseio.com/"
+});
 const db = admin.firestore();
 
 async function getFirestore(){
